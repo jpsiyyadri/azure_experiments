@@ -6,3 +6,9 @@
 **/*.csv
 **/*.db
 **/*.log
+
+**/.env
+.env
+
+# ignore .env files
+**/.env
