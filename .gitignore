@@ -3,12 +3,20 @@
 **/.vscode/
 **/__pycache__/
 
+**/**/.pyenv
+**/**/.python-version
+**/**/.vscode
+**/**/__pycache__
+
+
 **/*.csv
 **/*.db
 **/*.log
 
-**/.env
 .env
-
-# ignore .env files
 **/.env
+
+**/**/.env
+**/**/*.db
+**/**/*.log
+

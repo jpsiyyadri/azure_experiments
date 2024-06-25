@@ -1,0 +1,5 @@
+SQLAlchemy
+python-dotenv
+psycopg2
+azure-identity
+alembic
