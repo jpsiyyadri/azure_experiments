@@ -36,8 +36,8 @@ class Database:
 
 
 if __name__ == "__main__":
-    connection_uri = "https://cosmosforapi.documents.azure.com:443/"
-    access_key = "09ViP0Utip2OXipBM9jC3EpZpTOXeZDUEBpDd3IUIVSOqQs3ipgp2LmlVyNy9grIPF7HttXnR5C6ACDbtl6ceA=="
+    connection_uri = "<>"
+    access_key = "<>"
 
     database_connection = Database(connection_uri, access_key, "books", "book")
     # print(database_connection.read_items())
