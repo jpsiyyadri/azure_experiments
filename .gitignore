@@ -20,3 +20,6 @@
 **/**/*.db
 **/**/*.log
 
+**/local.settings.json
+
+

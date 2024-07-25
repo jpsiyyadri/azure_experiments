@@ -1,0 +1,7 @@
+{
+    "openai_azure_api_key": "c2df0f694c1c4d8eb7aa3abfcc89c750",
+    "openai_api_type": "azure",
+    "openai_api_version": "2023-07-01-preview",
+    "openai_api_base":"https://llmopsgptvision.openai.azure.com/",
+    "deployment_name": "largecontext"
+}
